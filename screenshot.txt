@@ -1,0 +1,26 @@
+// config ODM mail
+
+https://myaccount.google.com/lesssecureapps?pli=1
+https://mail.google.com/mail/u/0/#inbox/FMfcgxwDqnqjWNcczwjWssZTqVhLxFlb
+
+
+//screenshot
+
+// http://prntscr.com/oxndbd (client administrator id (dod))
+
+1 http://prntscr.com/owg2e8
+
+2 http://prntscr.com/owg3g9
+
+
+//link
+1.    http://learn-automation.com/selenium-webdriver-tutorial-for-beginners/
+
+
+
+// http://prntscr.com/p3m3bc
+
+
+10/9/19
+
+// http://prntscr.com/p4a5gb
